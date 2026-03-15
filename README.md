@@ -43,6 +43,6 @@
 
 ## 📥 다운로드
 
-[[Releases](https://github.com/rubless/image_extractor/releases)](https://github.com/rubless/image-extractor/releases/tag/main) 페이지에서 최신 `.exe` 파일을 받을 수 있습니다.
+(https://github.com/rubless/image-extractor/releases/tag/main) 페이지에서 최신 `.exe` 파일을 받을 수 있습니다.
 
 > ⚠️ Windows에서 실행 시 SmartScreen 경고가 뜰 수 있습니다. 「추가 정보 → 실행」을 눌러주세요.
